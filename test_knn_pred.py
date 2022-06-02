@@ -1,5 +1,4 @@
 import pickle
-from unittest import result
 import Knn_model as knn
 
 
