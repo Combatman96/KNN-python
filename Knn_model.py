@@ -64,5 +64,14 @@ def getComfusionMatrix():
 def getAccuracy():
     return accuracy
 
+def makePrediction(model_link, features):
 
+    print(model_link, features)
+
+    model = pickle.load(open(model_link, 'rb'))
+    features = np.reshape(features, (-1, 17))
+    print("feature reshaped ", features)
+    result = model.predict(features)
+    return result[0]
+    
 
