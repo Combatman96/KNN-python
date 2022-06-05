@@ -1,0 +1,42 @@
+Categories to num
+
+Yes = 1;
+No = 0;
+Male = 1;
+Female = 0;
+
+Age Category:
+18-24 = 0;
+25-29 = 1;
+30-34 = 2;
+35-39 = 3;
+40-44 = 4;
+45-49 = 5;
+50-54 = 6;
+55-59 = 7;
+60-64 = 8;
+65-69 = 9; (Nice)
+70-74 = 10;
+75-79 = 11;
+80 or older = 12;
+
+Race:
+American Indian/Alaskan Native = 0 (Anh-điêng)
+Asian = 1
+Black = 2
+Hispanic = 3 (gốc Tây Ban Nha)
+Other = 4
+White = 5
+
+Diabetic:
+No = 0
+Yes = 1
+No, borderline diabetes = 2 (tiền đái tháo đường)
+Yes (during pregnancy) = 3 (có trong thai kỳ)
+
+General Health:
+Poor = 0
+Fair = 1
+Good = 2
+Very Good= 3
+Excellent = 4

@@ -1,0 +1,68 @@
+QUESTIONS
+
+BMI
+Q: Chỉ số BMI của bạn là bao nhiêu?
+A: Y/N
+
+Smoking
+Q: Bạn có thói quen hút thuốc không?
+A: Y/N
+
+Alcohol Drinking
+Q: Bạn có thói quen uống rượt bia không?
+A: Y/N
+
+Stroke
+Q: Bạn đã bao giờ bị ngất? (đột quỵ)?
+A: Y/N
+
+Physical Health
+Q: Hãy ước lượng trong vòng 30 ngày trở lại đây, từng có bao nhiêu ngày bạn cảm thấy không khoẻ?
+A: 0 - 30
+
+Mental Health
+Q: Hãy ước lượng trong vòng 30 ngày trở lại đây, từng có bao nhiêu ngày tinh thần bạn không tốt?
+A: 0 - 30
+
+Difficulty Walking
+Q: Bạn có gặp khó khăn khi đi lại hoặc leo cầu thang?
+A: Y/N
+
+Sex
+Q: Bạn thuộc phái nam hay nữ?
+A: Nam/Nữ
+
+Age Categoty
+Q: Bạn thuộc nhóm tuổi nào? 
+	Bạn khoảng bao nhiêu tuổi? 
+	Bạn Bao nhiêu tuổi?
+
+Race
+Q: Sắc tộc của bạn là gì?
+	
+Diabetic
+Q: Bạn đã từng bị tiểu đường chưa?
+
+Physical Activity
+Q: Bạn có thói quen tập thể dục?
+A: Y/N
+
+General Health
+Q: Nhìn chung sức khoẻ của bạn như thế nào?
+A: 0-4
+
+Sleep Time
+Q: Một ngày bạn ngủ bao nhiêu giờ?
+A: 0 - 24
+
+Asthma
+Q: Bạn có từng bị bệnh suyễn?
+A: Y/N
+
+Kidney Disease
+Q: Bạn có từng bị bệnh thận? (không bao gồm sỏi, nhiễm trùng, đái dầm)
+A: Y/N
+
+Skin Cancer
+Q: Bạn có từng bị ung thư da?
+A: Y/N
