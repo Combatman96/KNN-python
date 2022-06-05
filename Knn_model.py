@@ -21,14 +21,14 @@ def BuidlKNN(datasetPath, outputModel):
     X = dataset.iloc[:, 1:18].values
     y = dataset.iloc[:, 0].values
 
-    # Transform text value to number
-    le = LabelEncoder()
+    # # Transform text value to number
+    # le = LabelEncoder()
 
-    for i in range(17):
-        if(i != 0 and i != 4 and i!=5 and i!=13):
-            X[:, i] = le.fit_transform(X[:,i])
+    # for i in range(17):
+    #     if(i != 0 and i != 4 and i!=5 and i!=13):
+    #         X[:, i] = le.fit_transform(X[:,i])
 
-    y = le.fit_transform(y)
+    # y = le.fit_transform(y)
 
     # Splitting the dataset into the Training set and Test set
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 0)
